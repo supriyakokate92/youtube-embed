@@ -1,0 +1,7 @@
+{
+  "name": "youtube-embed",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
